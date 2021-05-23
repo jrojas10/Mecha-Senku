@@ -8,6 +8,10 @@ $hello - replies with hello
 
 $commands - lists all commands
 
+$quote - random quote
+
+$aniquote- random anime quote
+
 ```
 
 ### More commands soon, work in progress...
