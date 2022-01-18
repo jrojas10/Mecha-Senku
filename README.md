@@ -1,4 +1,5 @@
-# Mecha Senku bot
+# Mecha Senku bot in python.
+# updated version in javascript https://github.com/jrojas10/MechaSenkuNodeJS
 Discord bot 
 # Commands
 ```
